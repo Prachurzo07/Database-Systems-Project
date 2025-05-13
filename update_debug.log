@@ -1,0 +1,727 @@
+
+2025-04-28 05:35:15 - Script started
+2025-04-28 05:35:15 - POST data: Array
+(
+)
+
+2025-04-28 05:35:15 - Database connection included
+2025-04-28 05:35:15 - No ID provided
+2025-04-28 05:35:21 - Script started
+2025-04-28 05:35:21 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 05:35:21 - Database connection included
+2025-04-28 05:35:21 - Processing ID: 0
+2025-04-28 05:35:21 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 05:35:21 - Query successful, affected rows: 1
+2025-04-28 05:35:21 - Redirecting to insert_food.php
+2025-04-28 05:35:25 - Script started
+2025-04-28 05:35:25 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 05:35:25 - Database connection included
+2025-04-28 05:35:25 - Processing ID: 0
+2025-04-28 05:35:25 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 05:35:25 - Query successful, affected rows: 1
+2025-04-28 05:35:25 - Redirecting to insert_food.php
+2025-04-28 05:37:01 - Script started
+2025-04-28 05:37:01 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 05:37:01 - Database connection included
+2025-04-28 05:37:01 - Processing ID: 0
+2025-04-28 05:37:01 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 05:37:01 - Query successful, affected rows: 1
+2025-04-28 05:37:01 - Redirecting to insert_food.php
+2025-04-28 05:37:27 - Script started
+2025-04-28 05:37:27 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 05:37:27 - Database connection included
+2025-04-28 05:37:27 - Processing ID: 0
+2025-04-28 05:37:27 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 05:37:27 - Query successful, affected rows: 1
+2025-04-28 05:37:27 - Redirecting to insert_food.php
+2025-04-28 05:37:39 - Script started
+2025-04-28 05:37:39 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 05:37:39 - Database connection included
+2025-04-28 05:37:39 - Processing ID: 0
+2025-04-28 05:37:39 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 05:37:39 - Query successful, affected rows: 1
+2025-04-28 05:37:39 - Redirecting to insert_food.php
+2025-04-28 05:38:33 - Script started
+2025-04-28 05:38:33 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 05:38:33 - Database connection included
+2025-04-28 05:38:33 - Processing ID: 0
+2025-04-28 05:38:33 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 05:38:33 - Query successful, affected rows: 1
+2025-04-28 05:38:33 - Redirecting to insert_food.php
+2025-04-28 05:38:34 - Script started
+2025-04-28 05:38:34 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 05:38:34 - Database connection included
+2025-04-28 05:38:34 - Processing ID: 0
+2025-04-28 05:38:34 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 05:38:34 - Query successful, affected rows: 1
+2025-04-28 05:38:34 - Redirecting to insert_food.php
+2025-04-28 06:17:56 - Script started
+2025-04-28 06:17:56 - POST data: Array
+(
+    [id] => 0
+    [decrease] => 
+)
+
+2025-04-28 06:17:56 - Database connection included
+2025-04-28 06:17:56 - Processing ID: 0
+2025-04-28 06:17:56 - Operation: decrease, SQL: UPDATE food SET amount = GREATEST(amount - 1, 0) WHERE name = 0
+2025-04-28 06:17:56 - Query successful, affected rows: 2
+2025-04-28 06:17:56 - Redirecting to insert_food.php
+2025-04-28 06:17:57 - Script started
+2025-04-28 06:17:57 - POST data: Array
+(
+    [id] => 0
+    [decrease] => 
+)
+
+2025-04-28 06:17:57 - Database connection included
+2025-04-28 06:17:57 - Processing ID: 0
+2025-04-28 06:17:57 - Operation: decrease, SQL: UPDATE food SET amount = GREATEST(amount - 1, 0) WHERE name = 0
+2025-04-28 06:17:57 - Query successful, affected rows: 2
+2025-04-28 06:17:57 - Redirecting to insert_food.php
+2025-04-28 06:17:57 - Script started
+2025-04-28 06:17:57 - POST data: Array
+(
+    [id] => 0
+    [decrease] => 
+)
+
+2025-04-28 06:17:57 - Database connection included
+2025-04-28 06:17:57 - Processing ID: 0
+2025-04-28 06:17:57 - Operation: decrease, SQL: UPDATE food SET amount = GREATEST(amount - 1, 0) WHERE name = 0
+2025-04-28 06:17:57 - Query successful, affected rows: 2
+2025-04-28 06:17:57 - Redirecting to insert_food.php
+2025-04-28 06:17:58 - Script started
+2025-04-28 06:17:58 - POST data: Array
+(
+    [id] => 0
+    [decrease] => 
+)
+
+2025-04-28 06:17:58 - Database connection included
+2025-04-28 06:17:58 - Processing ID: 0
+2025-04-28 06:17:58 - Operation: decrease, SQL: UPDATE food SET amount = GREATEST(amount - 1, 0) WHERE name = 0
+2025-04-28 06:17:58 - Query successful, affected rows: 2
+2025-04-28 06:17:58 - Redirecting to insert_food.php
+2025-04-28 06:17:59 - Script started
+2025-04-28 06:17:59 - POST data: Array
+(
+    [id] => 0
+    [decrease] => 
+)
+
+2025-04-28 06:17:59 - Database connection included
+2025-04-28 06:17:59 - Processing ID: 0
+2025-04-28 06:17:59 - Operation: decrease, SQL: UPDATE food SET amount = GREATEST(amount - 1, 0) WHERE name = 0
+2025-04-28 06:17:59 - Query successful, affected rows: 2
+2025-04-28 06:17:59 - Redirecting to insert_food.php
+2025-04-28 06:18:00 - Script started
+2025-04-28 06:18:00 - POST data: Array
+(
+    [id] => 0
+    [decrease] => 
+)
+
+2025-04-28 06:18:00 - Database connection included
+2025-04-28 06:18:00 - Processing ID: 0
+2025-04-28 06:18:00 - Operation: decrease, SQL: UPDATE food SET amount = GREATEST(amount - 1, 0) WHERE name = 0
+2025-04-28 06:18:00 - Query successful, affected rows: 1
+2025-04-28 06:18:00 - Redirecting to insert_food.php
+2025-04-28 06:18:00 - Script started
+2025-04-28 06:18:00 - POST data: Array
+(
+    [id] => 0
+    [decrease] => 
+)
+
+2025-04-28 06:18:00 - Database connection included
+2025-04-28 06:18:00 - Processing ID: 0
+2025-04-28 06:18:00 - Operation: decrease, SQL: UPDATE food SET amount = GREATEST(amount - 1, 0) WHERE name = 0
+2025-04-28 06:18:00 - Query successful, affected rows: 1
+2025-04-28 06:18:00 - Redirecting to insert_food.php
+2025-04-28 06:22:56 - Script started
+2025-04-28 06:22:56 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 06:22:56 - Database connection included
+2025-04-28 06:22:56 - Processing ID: 0
+2025-04-28 06:22:56 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 06:22:56 - Query successful, affected rows: 3
+2025-04-28 06:22:56 - Redirecting to insert_food.php
+2025-04-28 09:48:12 - Script started
+2025-04-28 09:48:12 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 09:48:12 - Database connection included
+2025-04-28 09:48:12 - Processing ID: 0
+2025-04-28 09:48:12 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 09:48:12 - Query successful, affected rows: 3
+2025-04-28 09:48:12 - Redirecting to insert_food.php
+2025-04-28 09:48:17 - Script started
+2025-04-28 09:48:17 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 09:48:17 - Database connection included
+2025-04-28 09:48:17 - Processing ID: 0
+2025-04-28 09:48:17 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 09:48:17 - Query successful, affected rows: 3
+2025-04-28 09:48:17 - Redirecting to insert_food.php
+2025-04-28 09:49:30 - Script started
+2025-04-28 09:49:30 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 09:49:30 - Database connection included
+2025-04-28 09:49:30 - Processing ID: 0
+2025-04-28 09:49:30 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 09:49:30 - Query successful, affected rows: 4
+2025-04-28 09:49:30 - Redirecting to insert_food.php
+2025-04-28 09:49:32 - Script started
+2025-04-28 09:49:32 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 09:49:32 - Database connection included
+2025-04-28 09:49:32 - Processing ID: 0
+2025-04-28 09:49:32 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 09:49:32 - Query successful, affected rows: 4
+2025-04-28 09:49:32 - Redirecting to insert_food.php
+2025-04-28 11:12:14 - Script started
+2025-04-28 11:12:14 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:12:14 - Database connection included
+2025-04-28 11:12:14 - Processing ID: 0
+2025-04-28 11:12:14 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:12:14 - Query successful, affected rows: 4
+2025-04-28 11:12:14 - Redirecting to insert_food.php
+2025-04-28 11:12:14 - Script started
+2025-04-28 11:12:14 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:12:14 - Database connection included
+2025-04-28 11:12:14 - Processing ID: 0
+2025-04-28 11:12:14 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:12:14 - Query successful, affected rows: 4
+2025-04-28 11:12:14 - Redirecting to insert_food.php
+2025-04-28 11:12:15 - Script started
+2025-04-28 11:12:15 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:12:15 - Database connection included
+2025-04-28 11:12:15 - Processing ID: 0
+2025-04-28 11:12:15 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:12:15 - Query successful, affected rows: 4
+2025-04-28 11:12:15 - Redirecting to insert_food.php
+2025-04-28 11:12:16 - Script started
+2025-04-28 11:12:16 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:12:16 - Database connection included
+2025-04-28 11:12:16 - Processing ID: 0
+2025-04-28 11:12:16 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:12:16 - Query successful, affected rows: 4
+2025-04-28 11:12:16 - Redirecting to insert_food.php
+2025-04-28 11:12:18 - Script started
+2025-04-28 11:12:18 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:12:18 - Database connection included
+2025-04-28 11:12:18 - Processing ID: 0
+2025-04-28 11:12:18 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:12:18 - Query successful, affected rows: 4
+2025-04-28 11:12:18 - Redirecting to insert_food.php
+2025-04-28 11:12:19 - Script started
+2025-04-28 11:12:19 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:12:19 - Database connection included
+2025-04-28 11:12:19 - Processing ID: 0
+2025-04-28 11:12:19 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:12:19 - Query successful, affected rows: 4
+2025-04-28 11:12:19 - Redirecting to insert_food.php
+2025-04-28 11:12:20 - Script started
+2025-04-28 11:12:20 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:12:20 - Database connection included
+2025-04-28 11:12:20 - Processing ID: 0
+2025-04-28 11:12:20 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:12:20 - Query successful, affected rows: 4
+2025-04-28 11:12:20 - Redirecting to insert_food.php
+2025-04-28 11:12:20 - Script started
+2025-04-28 11:12:20 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:12:21 - Database connection included
+2025-04-28 11:12:21 - Processing ID: 0
+2025-04-28 11:12:21 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:12:21 - Query successful, affected rows: 4
+2025-04-28 11:12:21 - Redirecting to insert_food.php
+2025-04-28 11:12:21 - Script started
+2025-04-28 11:12:21 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:12:21 - Database connection included
+2025-04-28 11:12:21 - Processing ID: 0
+2025-04-28 11:12:21 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:12:21 - Query successful, affected rows: 4
+2025-04-28 11:12:21 - Redirecting to insert_food.php
+2025-04-28 11:12:22 - Script started
+2025-04-28 11:12:22 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:12:22 - Database connection included
+2025-04-28 11:12:22 - Processing ID: 0
+2025-04-28 11:12:22 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:12:22 - Query successful, affected rows: 4
+2025-04-28 11:12:22 - Redirecting to insert_food.php
+2025-04-28 11:12:22 - Script started
+2025-04-28 11:12:22 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:12:22 - Database connection included
+2025-04-28 11:12:22 - Processing ID: 0
+2025-04-28 11:12:22 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:12:22 - Query successful, affected rows: 4
+2025-04-28 11:12:22 - Redirecting to insert_food.php
+2025-04-28 11:12:23 - Script started
+2025-04-28 11:12:23 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:12:23 - Database connection included
+2025-04-28 11:12:23 - Processing ID: 0
+2025-04-28 11:12:23 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:12:23 - Query successful, affected rows: 4
+2025-04-28 11:12:23 - Redirecting to insert_food.php
+2025-04-28 11:12:23 - Script started
+2025-04-28 11:12:23 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:12:23 - Database connection included
+2025-04-28 11:12:23 - Processing ID: 0
+2025-04-28 11:12:23 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:12:23 - Query successful, affected rows: 4
+2025-04-28 11:12:23 - Redirecting to insert_food.php
+2025-04-28 11:12:23 - Script started
+2025-04-28 11:12:23 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:12:23 - Database connection included
+2025-04-28 11:12:23 - Processing ID: 0
+2025-04-28 11:12:23 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:12:23 - Query successful, affected rows: 4
+2025-04-28 11:12:23 - Redirecting to insert_food.php
+2025-04-28 11:12:25 - Script started
+2025-04-28 11:12:25 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:12:25 - Database connection included
+2025-04-28 11:12:25 - Processing ID: 0
+2025-04-28 11:12:25 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:12:25 - Query successful, affected rows: 4
+2025-04-28 11:12:25 - Redirecting to insert_food.php
+2025-04-28 11:12:26 - Script started
+2025-04-28 11:12:26 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:12:26 - Database connection included
+2025-04-28 11:12:26 - Processing ID: 0
+2025-04-28 11:12:26 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:12:26 - Query successful, affected rows: 4
+2025-04-28 11:12:26 - Redirecting to insert_food.php
+2025-04-28 11:12:26 - Script started
+2025-04-28 11:12:26 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:12:26 - Database connection included
+2025-04-28 11:12:26 - Processing ID: 0
+2025-04-28 11:12:26 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:12:26 - Query successful, affected rows: 4
+2025-04-28 11:12:26 - Redirecting to insert_food.php
+2025-04-28 11:12:27 - Script started
+2025-04-28 11:12:27 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:12:27 - Database connection included
+2025-04-28 11:12:27 - Processing ID: 0
+2025-04-28 11:12:27 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:12:27 - Query successful, affected rows: 4
+2025-04-28 11:12:27 - Redirecting to insert_food.php
+2025-04-28 11:12:27 - Script started
+2025-04-28 11:12:27 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:12:27 - Database connection included
+2025-04-28 11:12:27 - Processing ID: 0
+2025-04-28 11:12:27 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:12:27 - Query successful, affected rows: 4
+2025-04-28 11:12:27 - Redirecting to insert_food.php
+2025-04-28 11:12:31 - Script started
+2025-04-28 11:12:31 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:12:31 - Database connection included
+2025-04-28 11:12:31 - Processing ID: 0
+2025-04-28 11:12:31 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:12:31 - Query successful, affected rows: 4
+2025-04-28 11:12:31 - Redirecting to insert_food.php
+2025-04-28 11:12:34 - Script started
+2025-04-28 11:12:34 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:12:34 - Database connection included
+2025-04-28 11:12:34 - Processing ID: 0
+2025-04-28 11:12:34 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:12:34 - Query successful, affected rows: 4
+2025-04-28 11:12:34 - Redirecting to insert_food.php
+2025-04-28 11:12:36 - Script started
+2025-04-28 11:12:36 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:12:36 - Database connection included
+2025-04-28 11:12:36 - Processing ID: 0
+2025-04-28 11:12:36 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:12:36 - Query successful, affected rows: 4
+2025-04-28 11:12:36 - Redirecting to insert_food.php
+2025-04-28 11:25:45 - Script started
+2025-04-28 11:25:45 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:25:45 - Database connection included
+2025-04-28 11:25:45 - Processing ID: 0
+2025-04-28 11:25:45 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:25:45 - Query successful, affected rows: 4
+2025-04-28 11:25:45 - Redirecting to insert_food.php
+2025-04-28 11:25:46 - Script started
+2025-04-28 11:25:46 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:25:46 - Database connection included
+2025-04-28 11:25:46 - Processing ID: 0
+2025-04-28 11:25:46 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:25:46 - Query successful, affected rows: 4
+2025-04-28 11:25:46 - Redirecting to insert_food.php
+2025-04-28 11:25:48 - Script started
+2025-04-28 11:25:48 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:25:48 - Database connection included
+2025-04-28 11:25:48 - Processing ID: 0
+2025-04-28 11:25:48 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:25:48 - Query successful, affected rows: 4
+2025-04-28 11:25:48 - Redirecting to insert_food.php
+2025-04-28 11:25:49 - Script started
+2025-04-28 11:25:49 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:25:49 - Database connection included
+2025-04-28 11:25:49 - Processing ID: 0
+2025-04-28 11:25:49 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:25:49 - Query successful, affected rows: 4
+2025-04-28 11:25:49 - Redirecting to insert_food.php
+2025-04-28 11:25:50 - Script started
+2025-04-28 11:25:50 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:25:50 - Database connection included
+2025-04-28 11:25:50 - Processing ID: 0
+2025-04-28 11:25:50 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:25:50 - Query successful, affected rows: 4
+2025-04-28 11:25:50 - Redirecting to insert_food.php
+2025-04-28 11:25:51 - Script started
+2025-04-28 11:25:51 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:25:51 - Database connection included
+2025-04-28 11:25:51 - Processing ID: 0
+2025-04-28 11:25:51 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:25:51 - Query successful, affected rows: 4
+2025-04-28 11:25:51 - Redirecting to insert_food.php
+2025-04-28 11:25:52 - Script started
+2025-04-28 11:25:52 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 11:25:52 - Database connection included
+2025-04-28 11:25:52 - Processing ID: 0
+2025-04-28 11:25:52 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE name = 0
+2025-04-28 11:25:52 - Query successful, affected rows: 4
+2025-04-28 11:25:52 - Redirecting to insert_food.php
+2025-04-28 12:02:41 - Script started
+2025-04-28 12:02:41 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 12:02:41 - Database connection included
+2025-04-28 12:02:41 - Processing ID: 0
+2025-04-28 12:02:41 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE id = 0
+2025-04-28 12:02:41 - Query failed: Unknown column 'id' in 'where clause'
+2025-04-28 12:02:45 - Script started
+2025-04-28 12:02:45 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 12:02:45 - Database connection included
+2025-04-28 12:02:45 - Processing ID: 0
+2025-04-28 12:02:45 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE id = 0
+2025-04-28 12:02:45 - Query failed: Unknown column 'id' in 'where clause'
+2025-04-28 12:03:20 - Script started
+2025-04-28 12:03:20 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 12:03:20 - Database connection included
+2025-04-28 12:03:20 - Processing ID: 0
+2025-04-28 12:03:20 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE id = 0
+2025-04-28 12:03:20 - Query failed: Unknown column 'id' in 'where clause'
+2025-04-28 18:25:08 - Script started
+2025-04-28 18:25:08 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 18:25:08 - Database connection included
+2025-04-28 18:25:08 - Processing ID: 0
+2025-04-28 18:25:08 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE id = 0
+2025-04-28 18:25:08 - Query failed: Unknown column 'id' in 'where clause'
+2025-04-28 18:25:16 - Script started
+2025-04-28 18:25:16 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 18:25:16 - Database connection included
+2025-04-28 18:25:16 - Processing ID: 0
+2025-04-28 18:25:16 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE id = 0
+2025-04-28 18:25:16 - Query failed: Unknown column 'id' in 'where clause'
+2025-04-28 18:26:19 - Script started
+2025-04-28 18:26:19 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 18:26:19 - Database connection included
+2025-04-28 18:26:19 - Processing ID: 0
+2025-04-28 18:26:19 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE id = 0
+2025-04-28 18:26:19 - Query failed: Unknown column 'id' in 'where clause'
+2025-04-28 18:26:59 - Script started
+2025-04-28 18:26:59 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-04-28 18:26:59 - Database connection included
+2025-04-28 18:26:59 - Processing ID: 0
+2025-04-28 18:26:59 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE id = 0
+2025-04-28 18:26:59 - Query failed: Unknown column 'id' in 'where clause'
+2025-05-05 07:42:22 - Script started
+2025-05-05 07:42:22 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-05-05 07:42:22 - Database connection included
+2025-05-05 07:42:22 - Processing ID: 0
+2025-05-05 07:42:22 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE id = 0
+2025-05-05 07:42:22 - Query failed: Unknown column 'id' in 'where clause'
+2025-05-05 10:41:38 - Script started
+2025-05-05 10:41:38 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-05-05 10:41:38 - Database connection included
+2025-05-05 10:41:38 - Processing ID: 0
+2025-05-05 10:41:38 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE id = 0
+2025-05-05 10:41:38 - Query failed: Unknown column 'id' in 'where clause'
+2025-05-05 11:10:32 - Script started
+2025-05-05 11:10:32 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-05-05 11:10:32 - Database connection included
+2025-05-05 11:10:32 - Processing ID: 0
+2025-05-05 11:10:32 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE id = 0
+2025-05-05 11:10:32 - Query failed: Unknown column 'id' in 'where clause'
+2025-05-05 23:22:52 - Script started
+2025-05-05 23:22:52 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-05-05 23:22:52 - Database connection included
+2025-05-05 23:22:52 - Processing ID: 0
+2025-05-05 23:22:52 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE id = 0
+2025-05-05 23:22:52 - Query failed: Unknown column 'id' in 'where clause'
+2025-05-05 23:29:57 - Script started
+2025-05-05 23:29:57 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-05-05 23:29:57 - Database connection included
+2025-05-05 23:29:57 - Processing ID: 0
+2025-05-05 23:29:57 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE id = 0
+2025-05-05 23:29:57 - Query failed: Unknown column 'id' in 'where clause'
+2025-05-05 23:32:39 - Script started
+2025-05-05 23:32:39 - POST data: Array
+(
+    [id] => 0
+    [increase] => 
+)
+
+2025-05-05 23:32:39 - Database connection included
+2025-05-05 23:32:39 - Processing ID: 0
+2025-05-05 23:32:39 - Operation: increase, SQL: UPDATE food SET amount = amount + 1 WHERE id = 0
+2025-05-05 23:32:39 - Query failed: Unknown column 'id' in 'where clause'
